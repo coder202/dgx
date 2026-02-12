@@ -1,2 +1,2 @@
 # dgx
-Deterministic Graph eXecutor
+Decision Graph eXecutor
